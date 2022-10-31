@@ -1,0 +1,17 @@
+.item {
+  padding: 25px 0;
+  width: 25%;
+}
+
+.label {
+  display: block;
+  text-align: center;
+  margin-bottom: 10px;
+}
+
+.percentage {
+  display: block;
+  text-align: center;
+  font-size: 18px;
+  font-weight: bold;
+}
